@@ -1,0 +1,22 @@
+text="➕️ Add Me ",
+         url="http://t.me/JinWooSungBot?startgroup=new",
+        ),
+    ],
+    [
+        InlineKeyboardButton(
+            text=" 🏥 Support", url=f"https://t.me/AstorSupport",
+        ),
+        InlineKeyboardButton(
+            text=" 🎉 Updates", url=f"https://t.me/AstorPro",
+        ),
+        InlineKeyboardButton(
+            text=" 📮 Logs", url=f"https://t.me/ErikaLogs"),
+    ],
+    [
+        InlineKeyboardButton(
+            text=" 🌻 Chat", url=f"https://t.me/ScoutXLegion",
+        ),
+        InlineKeyboardButton(
+            text=" 🔐 Help ", callback_data="help_back"),
+    ],
+  ]
